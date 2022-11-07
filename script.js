@@ -15,7 +15,7 @@ yesBtn.addEventListener("click", () => {
   firstIcon.classList.remove("active");
   iconSecond.classList.add("active");
 
-  question.innerHTML = "Es el qez kyanqs;)";
+  question.innerHTML = "I Love You Too ;)";
 });
 
 noBtn.addEventListener("mouseover", () => {
